@@ -6,3 +6,4 @@ print("6/2 = ", div(6,2))
 
 print("hello")
 print("haris")
+print("dc") 
